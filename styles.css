@@ -1,0 +1,102 @@
+
+.The-Fibonaccis-Menu {
+    text-align: center;
+    padding: 10px; 
+  }
+  
+  table {
+    padding: 10px;
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+  }
+  
+   h3 {
+    font-family:"Lemon";
+    font-size:20px;
+    color: #6BE25B;
+    margin-bottom:3px;
+    text-align: center;
+     
+  }
+  
+  td {
+    font-family:"DM Sans";
+    line-height: 20px;
+    padding:10px;
+    margin:50;
+    text-align: center;
+    
+  }
+  
+  .fibonacci-q-menu {
+    margin-bottom: -25px;
+  }
+  
+  .p-bold {
+    font-weight:bold;
+    font-size:15px;
+    font-family:"Playfair Display";
+    margin-bottom:-45px;
+  }
+  
+  .background-img {
+    width: 400px;
+    height:400px;
+  }
+  
+  h1 , h2 , h4 {
+    color: #6E57F5;
+    font-family:"Tektur";
+    margin-top: 10px;
+    margin-bottom:10px;
+    text-align: center;
+  }
+  
+  .food-photo-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .food-photo-top {
+    flex:1 ;
+    width: 30%;
+    padding: 10px;
+    justify-content: center;
+  }
+  /* used bottom and top to have easier organization*/
+  .food-photo-bottom {
+    flex: 1;
+    width: 30%; /* Allow the photos to shrink */
+    padding: 10px;
+    justify-content: center;
+  }
+  
+  .footer-icons {
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    width:80%;
+    margin:0 auto;
+  }
+  
+  img {
+    width: 100%;
+  }
+    
+  .food-icon {
+    width: 130px;
+    margin:5px;
+  }
+   
+  .all-rights-reserved {
+    font-size: 15px;
+    text-align: center;
+    margin-top: -7px;
+    font-family:"Dosis";
+  }
+  
+  .wiki-link {
+    text-align: center;
+    font-family:"Lato";
+  }
